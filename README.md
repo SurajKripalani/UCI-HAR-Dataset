@@ -13,9 +13,7 @@ The function requires all data files used to be downloaded from the
 link below and to be run in the "UCI HAR Dataset" directory which 
 contains the data files.
 Data set link: 
-"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20
-HAR%20Dataset.zip"
+"https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 A full description of the project is available at the site where the 
 data was obtained:
-"http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Usi
-ng+Smartphones" 
+"http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones" 
